@@ -1,0 +1,45 @@
+---
+title: "Fieldwork in Ecuador"
+date: 2026-10-02
+#description: "Planting seeds at our field sites in the Andes"
+image: cover.jpg
+lightbox: true
+---
+
+::: {layout-ncol="3"}
+![](cover.jpg){group="ecuador"}
+
+![](chloe.JPG){group="ecuador"}
+
+![](CNV00001.jpg){group="ecuador"}
+
+![](CNV00003.jpg){group="ecuador"}
+
+![](CNV00003b.JPG){group="ecuador"}
+
+![](CNV00004.jpg){group="ecuador"}
+
+![](CNV00006.jpg){group="ecuador"}
+
+![](CNV00007.jpg){group="ecuador"}
+
+![](CNV00007b.JPG){group="ecuador"}
+
+![](CNV00008.jpg){group="ecuador"}
+
+![](CNV00014.JPG){group="ecuador"}
+
+![](CNV00018.jpg){group="ecuador"}
+
+![](CNV00019.jpg){group="ecuador"}
+
+![](CNV00020.jpg){group="ecuador"}
+
+![](ecsf.JPG){group="ecuador"}
+
+![](paramo.JPG){group="ecuador"}
+
+![](paramo1.JPG){group="ecuador"}
+
+![](walter.JPG){group="ecuador"}
+:::

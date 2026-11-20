@@ -4,8 +4,8 @@ project:
 
 
 website:
-  title: "My website"
-  description: "I am a scientist"
+  #title: "My website"
+ # description: "I am a scientist"
   site-url: https://pakillo.github.io/academic-website-template-Quarto
   repo-url: https://github.com/Pakillo/academic-website-template-Quarto
   # favicon: logo.png
@@ -23,10 +23,11 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - Projects.qmd
-      - Publications.qmd
-      - Blog.qmd
-
+      #- Projects.qmd
+      #- Publications.qmd
+      #- Blog.qmd
+      - href: gallery.qmd
+        text: Gallery
       # - icon: mastodon
       #   href: https://joinmastodon.org
       # - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"

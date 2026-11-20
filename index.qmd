@@ -1,26 +1,23 @@
 ---
-title: "Finley Malloc"
+title: "Elliot Miles"
 about:
   template: trestles
-  image: avatar.jpg
+  image: elliot.jpg
   links:
     - icon: envelope
       # text: email
-      href: "mailto: test@example.com"
-    - icon: mastodon
-      href: https://joinmastodon.org
+      href: "mailto: elliot.miles@liverpool.ac.uk"
     - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
-      href: https://bsky.app
-    - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
-      href: https://x.com
-    - icon: github
-      href: https://github.com
+      href: https://bsky.app/profile/elliotmiles.bsky.social
+    #- text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
+    #- icon: github
+      #href: https://github.com
     - icon: linkedin
-      href: https://linkedin.com/
-    - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
-      href: https://scholar.google.com
+      href: https://www.linkedin.com/in/elliot-miles-2863a1159/
+    #- text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
+     # href: https://scholar.google.com
     - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
-      href: https://orcid.org/
+      href: https://orcid.org/0009-0008-8285-2704
     # - icon: twitter
     #   text: twitter
     #   href: https://twitter.com
@@ -29,18 +26,22 @@ about:
     #   href: https://github.com
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+I'm a PhD researcher at the University of Liverpool, studying how global warming affects the reproductive success of Andean trees. My work follows trees from seed to seedling with fieldwork in the tropical Andes of Ecuador.
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+**PhD, University of Liverpool** \| 2025 – present \| Understanding reproductive success to evaluate the impact of global warming on Andean trees
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+**MRes Advanced Biological Sciences, University of Liverpool** \| 2020 – 2021 \| Environmental, genetic and phenotypic drivers of forest resilience to climate change
+
+**BSc Ecology & Conservation Biology, University of Sheffield** \| 2016 – 2019 \|
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+**Technical Lead – Scoring, CDP** \| 2024 – 2025
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+**Technical Officer – Climate Change Scoring, CDP** \| 2023 – 2024
+
+**Disclosure Support & Scoring Officer, CDP** \| 2022 – 2023
+
+**Environmental Sustainability Data Scorer, Incite Insight** \| 2022

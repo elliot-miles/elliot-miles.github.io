@@ -1,0 +1,9 @@
+---
+title: "Gallery"
+listing:
+  contents: gallery
+  type: grid
+  sort: "date desc"
+  fields: [image, title, date]
+  grid-columns: 3
+---
