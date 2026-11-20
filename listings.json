@@ -1,12 +1,5 @@
 [
   {
-    "listing": "/Projects.html",
-    "items": [
-      "/projects/computational-ecology.html",
-      "/projects/contemplative-ecology.html"
-    ]
-  },
-  {
     "listing": "/Blog.html",
     "items": [
       "/posts/another-post.html",
@@ -18,5 +11,9 @@
     "items": [
       "/gallery/ecuador/index.html"
     ]
+  },
+  {
+    "listing": "/Projects.html",
+    "items": []
   }
 ]
