@@ -2,7 +2,7 @@
 title: "Elliot Miles"
 about:
   template: trestles
-  image: elliot.jpg
+  image: elliot.JPG
   links:
     - icon: envelope
       # text: email
