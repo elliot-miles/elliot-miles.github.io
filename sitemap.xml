@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/gallery/ecuador/index.html</loc>
-    <lastmod>2026-11-20T14:25:33.444Z</lastmod>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/index.html</loc>
+    <lastmod>2026-11-20T14:31:35.476Z</lastmod>
   </url>
   <url>
     <loc>https://pakillo.github.io/academic-website-template-Quarto/Projects.html</loc>
-    <lastmod>2026-11-20T14:25:33.423Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/computational-ecology.html</loc>
-    <lastmod>2026-11-20T14:25:33.449Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/Blog.html</loc>
-    <lastmod>2026-11-20T14:25:33.423Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/posts/new-post.html</loc>
-    <lastmod>2026-11-20T14:25:33.448Z</lastmod>
+    <lastmod>2026-11-20T14:31:35.453Z</lastmod>
   </url>
   <url>
     <loc>https://pakillo.github.io/academic-website-template-Quarto/posts/another-post.html</loc>
-    <lastmod>2026-11-20T14:25:33.448Z</lastmod>
+    <lastmod>2026-11-20T14:31:35.476Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/Blog.html</loc>
+    <lastmod>2026-11-20T14:31:35.453Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/computational-ecology.html</loc>
+    <lastmod>2026-11-20T14:31:35.478Z</lastmod>
   </url>
   <url>
     <loc>https://pakillo.github.io/academic-website-template-Quarto/Publications.html</loc>
-    <lastmod>2026-11-20T14:25:33.423Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/gallery.html</loc>
-    <lastmod>2026-11-20T14:25:33.424Z</lastmod>
+    <lastmod>2026-11-20T14:31:35.453Z</lastmod>
   </url>
   <url>
     <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/contemplative-ecology.html</loc>
-    <lastmod>2026-11-20T14:25:33.449Z</lastmod>
+    <lastmod>2026-11-20T14:31:35.478Z</lastmod>
   </url>
   <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/index.html</loc>
-    <lastmod>2026-11-20T14:25:33.448Z</lastmod>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/gallery/ecuador/index.html</loc>
+    <lastmod>2026-11-20T14:31:35.473Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/posts/new-post.html</loc>
+    <lastmod>2026-11-20T14:31:35.477Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/gallery.html</loc>
+    <lastmod>2026-11-20T14:31:35.455Z</lastmod>
   </url>
 </urlset>
