@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Finley Malloc",
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Finley Malloc",
-    "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Finley Malloc",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
-  },
-  {
-    "objectID": "Blog.html",
-    "href": "Blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "The value of contemplative ecology\n\n\n\ncontemplative\n\n\n\n\nSome thoughts about it\n\n\n\n\n\n\nOct 21, 2024\n\n\nJohn Doe\n\n\n\n\n\n\n\n\n\n\n\n\nThe value of computational ecology\n\n\n\ncomputational\n\n\n\n\nSome thoughts about it\n\n\n\n\n\n\nOct 20, 2024\n\n\nJohn Doe\n\n\n\n\n\nNo matching items"
+    "text": "Computational Ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nContemplative Ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/computational-ecology.html",
@@ -35,11 +14,25 @@
     "text": "A computational approach to tough questions in ecology"
   },
   {
+    "objectID": "Blog.html",
+    "href": "Blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "The value of contemplative ecology\n\n\n\ncontemplative\n\n\n\n\nSome thoughts about it\n\n\n\n\n\n\nOct 21, 2024\n\n\nJohn Doe\n\n\n\n\n\n\n\n\n\n\n\n\nThe value of computational ecology\n\n\n\ncomputational\n\n\n\n\nSome thoughts about it\n\n\n\n\n\n\nOct 20, 2024\n\n\nJohn Doe\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "Publications.html",
     "href": "Publications.html",
     "title": "Publications",
     "section": "",
     "text": "Articles\n\nQuintero, Rodríguez‐Sánchez, Jordano (2022) Reciprocity and interaction effectiveness in generalised mutualisms among free‐living species. Ecology Letters 26 (1): 132-146. [PDF]\nRodríguez-Sanchez, Pérez-Luque, Bartomeus, Varela (2016) Ciencia reproducible: ¿qué, por qué, cómo?. Ecosistemas 25 (2): 83-92\n\n\n\nBook chapters"
+  },
+  {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Gallery",
+    "section": "",
+    "text": "Fieldwork in Ecuador\n\n\n\nOct 2, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/contemplative-ecology.html",
@@ -49,10 +42,24 @@
     "text": "Learning about the natural world just by contemplating it"
   },
   {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
-    "title": "Projects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Elliot Miles",
     "section": "",
-    "text": "Computational Ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nContemplative Ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "I’m a PhD researcher at the University of Liverpool, studying how global warming affects the reproductive success of Andean trees. My work follows trees from seed to seedling with fieldwork in the tropical Andes of Ecuador."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Elliot Miles",
+    "section": "Education",
+    "text": "Education\nPhD, University of Liverpool | 2025 – present | Understanding reproductive success to evaluate the impact of global warming on Andean trees\nMRes Advanced Biological Sciences, University of Liverpool | 2020 – 2021 | Environmental, genetic and phenotypic drivers of forest resilience to climate change\nBSc Ecology & Conservation Biology, University of Sheffield | 2016 – 2019 |"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Elliot Miles",
+    "section": "Experience",
+    "text": "Experience\nTechnical Lead – Scoring, CDP | 2024 – 2025\nTechnical Officer – Climate Change Scoring, CDP | 2023 – 2024\nDisclosure Support & Scoring Officer, CDP | 2022 – 2023\nEnvironmental Sustainability Data Scorer, Incite Insight | 2022"
   }
 ]
