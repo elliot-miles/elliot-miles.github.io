@@ -42,8 +42,8 @@ website:
       #   href: https://scholar.google.com
       # - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
       #   href: https://orcid.org/
-      - icon: rss
-        href: index.xml
+      #- icon: rss
+        #href: index.xml
       # - icon: twitter
       #   href: https://twitter.com
 
